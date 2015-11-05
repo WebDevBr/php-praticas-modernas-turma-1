@@ -1,4 +1,6 @@
 {
+    "name": "webdevbr/query-builder",
+    "description": "QueryBuilder criado na aula PHP Pratica Modernas Turmas do www.webdevbr.com.br",
     "require": {
     },
     "autoload": {
